@@ -1,2 +1,4 @@
 cryptography
 pyotp
+fastapi
+uvicorn
